@@ -6,7 +6,6 @@ import CloseIcon from '@material-ui/icons/Close';
 import './ModalPostagem.css';
 import CadastroPost from '../cadastroPost/CadastroPost';
 
-
 function getModalStyle() {
   const top = 50;
   const left = 50;
